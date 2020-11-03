@@ -15,7 +15,7 @@
 #FROM fnndsc/ubuntu-python3:latest
 FROM continuumio/miniconda3:latest
 # Copy in resources 
-COPY resources $PWD
+# COPY resources $PWD
 # Set up environment
 ENV USER=root
 RUN apt-get -y install sudo 
