@@ -1,0 +1,13 @@
+# target name        accession  query name           accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#------------------- ---------- -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+229854               -          61_otus              -                1     170       4     239       4     240     240    +     4.9e-26   75.5   2.2  -
+#
+# Program:         nhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /srv/db/graftm/4/4.01.2013_08_greengenes_61_otus.gpkg/61_otus.hmm
+# Target file:     -
+# Option settings: nhmmer -o /dev/null --tblout eg.graftm/eg/eg.hmmout.csv --noali -E 1e-5 --incE 1e-5 --cpu 5 /srv/db/graftm/4/4.01.2013_08_greengenes_61_otus.gpkg/61_otus.hmm - 
+# Current dir:     /srv/db/graftm/4/4.01.2013_08_greengenes_61_otus.gpkg
+# Date:            Wed Dec  2 09:52:06 2015
+# [ok]

@@ -1,0 +1,1 @@
+{"refpkg": "61_otus.refpkg", "graftm_package_version": 2, "diamond_database": "61_otus.dmnd", "trusted_cutoff": false, "range": 2302.5, "align_hmm": "61_otus.hmm", "taxtastic_taxonomy_file": "61_otus.refpkg/61_otus_taxonomy.csv", "search_hmms": ["61_otus.hmm"]}
